@@ -1,5 +1,15 @@
 #!/bin/bash
 
+#######################################################################################################
+# FILE          : fail2ban_ip.sh
+# DESCRIPTION   : Display the banned IP addresses of your Fail2ban jails in a more user-friendly format
+# AUTHOR        : HellPC
+# DATE          : 2026.02.11
+# README        : https://github.com/He11PC/fail2ban-ip#readme
+# LICENSE       : MIT
+#######################################################################################################
+
+
 VERBOSE=false
 if [ "$1" = "-v" ]; then
     VERBOSE=true
