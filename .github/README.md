@@ -10,7 +10,7 @@ This *fail2ban_ip.sh* file is a script that displays the banned IP addresses of 
 
 ---
 
-## Usage:
+## Usage
 
 Download the *fail2ban_ip.sh* file or create a new one and copy/paste its contents.
 
