@@ -8,7 +8,7 @@ This *fail2ban_ip.sh* file is a script that displays the banned IP addresses of 
 `   xxx.xxx.xxx.xxx   country   net_name`  
 `   ...`
 
----
+<br>
 
 ## Usage
 
